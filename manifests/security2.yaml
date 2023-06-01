@@ -21,7 +21,7 @@ spec:
     kind: Config
     plural: configs
   scope: Namespaced
-  validation:
+  schema:
     openAPIV3Schema:
       properties:
         apiVersion:
